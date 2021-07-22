@@ -1,5 +1,6 @@
 -Here are some ideas to get you started:
--👋 Hi, I’m @Ignacio-Durann -👀 I’m interested in developing mobile apps, desktop apps, and web apps
+-👋 Hi, I’m @Ignacio-Durann
+-👀 I’m interested in developing mobile apps, desktop apps, and web apps
 -🔭 I’m currently working on ...
 -🌱 I’m currently learning learning Angular cli, kotlin and php
 -👯 I’m looking to collaborate on ...
