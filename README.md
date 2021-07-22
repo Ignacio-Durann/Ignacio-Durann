@@ -1,4 +1,4 @@
-<!--### Hi there 👋
+### Hi there 👋
 -Here are some ideas to get you started:
 -👋 Hi, I’m @Ignacio-Durann
 -👀 I’m interested in developing mobile apps, desktop apps, and web apps
@@ -10,4 +10,4 @@
 -📫 How to reach me: by mail or whatsapp
 -😄 Pronouns: ...
 -⚡ Fun fact: ...
--->
+
