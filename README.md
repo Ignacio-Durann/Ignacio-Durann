@@ -12,7 +12,9 @@
 
 -🤔 I’m looking for help with ...
 
--💬 Ask me about anything -📫 How to reach me: by mail or whatsapp
+-💬 Ask me about anything
+
+-📫 How to reach me: by mail or whatsapp
 
 -😄 Pronouns: ...
 
