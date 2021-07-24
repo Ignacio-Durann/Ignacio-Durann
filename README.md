@@ -4,11 +4,11 @@
 
 -👀 I’m interested in developing mobile apps, desktop apps, and web apps
 
--🔭 I’m currently working on ...
+-🔭 I’m currently working on Dolphin Program
 
 -🌱 I’m currently learning learning Angular cli, kotlin and php
 
--👯 I’m looking to collaborate on ...
+-👯 I’m looking to collaborate on anyone wants make better the repository
 
 -🤔 I’m looking for help with ...
 
