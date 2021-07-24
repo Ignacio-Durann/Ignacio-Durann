@@ -8,7 +8,7 @@
 
 -🌱 I’m currently learning learning Angular cli, kotlin and php
 
--👯 I’m looking to collaborate on anyone wants make better the repository
+-👯 I’m looking to collaborate with anyone wants make better the repository
 
 -🤔 I’m looking for help with ...
 
