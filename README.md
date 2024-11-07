@@ -1,6 +1,6 @@
 -Here are some ideas to get you started:
 
--👋 Hi, I’m @Ignacio-Durann
+-👋 Hi, I’m @nachiodc
 
 -👀 I’m interested in developing mobile apps, desktop apps, and web apps
 
